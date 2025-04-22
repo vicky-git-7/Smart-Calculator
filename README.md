@@ -19,5 +19,7 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 - Real-time evaluation using JavaScript.
 - Error handling for invalid expressions.
 
+- ![Image](https://github.com/user-attachments/assets/816a2831-0b70-4d4c-97bb-64201848ce7c)
+
 
  
